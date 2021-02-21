@@ -26,7 +26,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 
-Describe any challenges encountered while building the app.
+I couldn't get the youtube video to work at some point but after rereading instructions, I saw that I was missing some vital code in the Android Manifest. 
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
@@ -56,7 +56,7 @@ Describe any challenges encountered while building the app.
 <img src="YOUR_GIF_URL_HERE" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+At some point, I had some typos and had to read my code line by line to find my mistakes. 
 
 ### Open-source libraries used
 
